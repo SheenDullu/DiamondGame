@@ -3,9 +3,7 @@ package CardsGame2;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/**
- * Created by malir on 7/29/2016.
- */
+
 public class Diamond {
     public static void main(String[] args) {
         ArrayList<Integer> humanBid = new ArrayList<>(13);
