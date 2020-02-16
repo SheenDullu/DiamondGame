@@ -1,8 +1,5 @@
 package CardsGame2;
 
-/**
- * Created by malir on 7/29/2016.
- */
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
